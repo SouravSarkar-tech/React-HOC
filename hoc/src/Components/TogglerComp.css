@@ -1,0 +1,80 @@
+.main {
+    text-align: center;
+    background: rgb(212, 243, 158);
+    margin: 100px 329px;
+    border-bottom: 12px solid rgb(28, 232, 218);
+    border-right: 7px solid rgb(28, 232, 218);
+    border-radius: 10px;
+    padding: 120px 20px;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 900;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+label{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+input {
+    padding: 20px 40px;
+    border-radius: 10px;
+    border-right: 5px solid rgb(40, 104, 214);
+    border-bottom: 8px solid rgb(40, 104, 214);
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: rgb(235, 137, 18);
+    font-weight: 700;
+}
+
+p {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+button {
+    margin-bottom: 50px;
+    font-family: 'Open Sans';
+    color: #dea832 !important;
+    text-transform: uppercase;
+    background: #ffffff;
+    padding: 20px 25px;
+    font-size: 24px;
+    border: 4px solid #20bf6b !important;
+    border-radius: 6px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #91f5a7 !important;
+    color: #1049ce !important;
+    font-weight: 700;
+    letter-spacing: 3px;
+    background: none;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(18, 16, 17, 0.37);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(18, 16, 17, 0.37);
+    transition: all 0.3s ease 0s;
+}
+
+h4 {
+    font-weight: 800;
+    font-size: 28px;
+}
+
+h4 span {
+    font-style: italic;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-right: 5px solid rgb(40, 104, 214);
+    border-bottom: 8px solid rgb(40, 104, 214);
+    background: rgb(168, 211, 224);
+
+}
